@@ -1,0 +1,13 @@
+README.md
+pyproject.toml
+src/look/__init__.py
+src/look/hand_detection.py
+src/look/main.py
+src/look/yolo_detector.py
+src/look.egg-info/PKG-INFO
+src/look.egg-info/SOURCES.txt
+src/look.egg-info/dependency_links.txt
+src/look.egg-info/entry_points.txt
+src/look.egg-info/requires.txt
+src/look.egg-info/top_level.txt
+tests/test_main.py
